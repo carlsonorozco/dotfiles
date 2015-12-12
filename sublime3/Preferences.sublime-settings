@@ -1,0 +1,35 @@
+{
+    "bold_folder_labels": true,
+    "detect_indentation": false,
+    "draw_indent_guides": true,
+    "draw_white_space": "all",
+    "font_options":
+    [
+        "bold"
+    ],
+    "font_size": 12,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "line_padding_bottom": 1,
+    "match_brackets_angle": true,
+    "rulers":
+    [
+        80
+    ],
+    "tab_size": 4,
+    "todo":
+    {
+        "case_sensitive": true,
+        "patterns":
+        {
+            "CHANGED": "CHANGED[\\s]*?:+(?P<changed>\\S.*)$",
+            "FIXME": "FIX ?ME[\\s]*?:+(?P<fixme>\\S.*)$",
+            "NOTE": "NOTE[\\s]*?:+(?P<note>.*)$",
+            "TODO": "TODO[\\s]*?:+(?P<todo>.*)$"
+        }
+    },
+    "trailing_spaces_include_current_line": false,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false
+}

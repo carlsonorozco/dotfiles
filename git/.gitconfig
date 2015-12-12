@@ -1,0 +1,7 @@
+[user]
+    name = Carlson Orozco
+    email = carlsonorozco@gmail.com
+[core]
+    editor = nano
+[color]
+    ui = true

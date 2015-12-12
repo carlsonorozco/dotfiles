@@ -1,0 +1,8 @@
+include ~/.nano/syntax/css.nanorc
+include ~/.nano/syntax/html.nanorc
+include ~/.nano/syntax/js.nanorc
+include ~/.nano/syntax/json.nanorc
+include ~/.nano/syntax/nginx.nanorc
+include ~/.nano/syntax/perl.nanorc
+include ~/.nano/syntax/php.nanorc
+include ~/.nano/syntax/rust.nanorc
